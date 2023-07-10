@@ -1,5 +1,5 @@
 <?php
-    class Utility {
+    class Utility extends ProductDescription{
         public $materials;
         public $dimensions;
     

@@ -1,5 +1,5 @@
 <?php
-    class Food {
+    class Food extends ProductDescription {
         public $weight;
         public $ingredients;
     

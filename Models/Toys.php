@@ -1,5 +1,5 @@
 <?php
-    class Toys {
+    class Toys extends ProductDescription{
         public $characteristics;
         public $dimensions;
     
