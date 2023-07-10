@@ -1,4 +1,9 @@
 <?php
+require_once __DIR__.'/Models/ProductDescription.php';
+require_once __DIR__.'/Models/Food.php';
+require_once __DIR__.'/Models/Utility.php';
+require_once __DIR__.'/Models/Toys.php';
+require_once __DIR__.'/Models/shopList.php';
 
 ?>
 <!DOCTYPE html>
